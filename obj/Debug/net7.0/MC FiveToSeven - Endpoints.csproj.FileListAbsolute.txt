@@ -1,0 +1,33 @@
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/appsettings.Development.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/appsettings.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/MC FiveToSeven - Endpoints
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/MC FiveToSeven - Endpoints.deps.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/MC FiveToSeven - Endpoints.runtimeconfig.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/MC FiveToSeven - Endpoints.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/MC FiveToSeven - Endpoints.pdb
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.csproj.AssemblyReference.cache
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.AssemblyInfoInputs.cache
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.AssemblyInfo.cs
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.csproj.CoreCompileInputs.cache
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.MC FiveToSeven - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.build.MC FiveToSeven - Endpoints.props
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MC FiveToSeven - Endpoints.props
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MC FiveToSeven - Endpoints.props
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets.build.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/staticwebassets.development.json
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/scopedcss/bundle/MC FiveToSeven - Endpoints.styles.css
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.csproj.CopyComplete
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/refint/MC FiveToSeven - Endpoints.dll
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.pdb
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/MC FiveToSeven - Endpoints.genruntimeconfig.cache
+/Users/waqasdad/MC FiveToSeven - Endpoints/obj/Debug/net7.0/ref/MC FiveToSeven - Endpoints.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B71ugcy3tGXYzzhjprm4F0AaMqk5E2gAHvxhgnb1eQDomIqLz93yvI/eH38Rgz+9sfPkr/bt11p1KJU4pHoOiA==",
+  "success": true,
+  "projectFilePath": "/Users/waqasdad/MC FiveToSeven - Endpoints/MC FiveToSeven - Endpoints.csproj",
+  "expectedPackageFiles": [
+    "/Users/waqasdad/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/waqasdad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

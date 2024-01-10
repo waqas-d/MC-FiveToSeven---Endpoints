@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MC FiveToSeven - Endpoints.props" />
+</Project>
